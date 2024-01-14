@@ -1,8 +1,13 @@
 <h1 align="center">Hi 👋, I'm Syamil Yusof</h1>
-<h3 align="center">A passionate developer and love-to-learn student from Malaysia</h3>
+<h3 align="center">A passionate developer and eager-to-learn student from Kajang, Malaysia.</h3>
+
+- 🔭 I’m currently taking Bachelor of Computer Science in [International Islamic University Malaysia](https://www.iium.edu.my/)
+
+- 📫 How to reach me **wanmuhammadsyamil@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/syamil-yusof" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/syamil-yusof" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
