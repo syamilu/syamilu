@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Syamil Yusof</h1>
-<h3 align="center">A passionate developer, cybersecurity enthusiasm and eager-to-learn student from Kajang, Malaysia.</h3>
+<h3 align="center">A passionate developer, cybersecurity enthusiast and eager-to-learn student from Kajang, Malaysia.</h3>
 
 - 🔭 I’m currently taking Bachelor of Computer Science in [International Islamic University Malaysia](https://www.iium.edu.my/)
 
