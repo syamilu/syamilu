@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://github.com/syamilu">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=Multiply+Business+Reach+with+SEO+%26+AEO;Member+%40+DeTA+Community;Computer+Science+Student+%40+IIUM;Flutter,+Next.js+%2B+Springboot+Developer;I+ship+products%2C+not+just+code" alt="typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=Multiply+Business+Reach+with+SEO+%26+AEO;Member+%40+DeTA+Community;Computer+Science+Student+%40+IIUM;Flutter%2C+Next.js+%26+Spring+Boot+Developer;I+ship+products%2C+not+just+code" alt="typing animation" />
   </a>
 </div>
 
@@ -23,17 +23,17 @@
 
 ## 🧑‍🚀 About Me
 
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" />
-
 - 🏢 Member of **[DeTA Community](https://detacommunity.com)**, a student-powered tech community building software for Malaysian SMEs and institutions
 - 🎓 Bachelor of Computer Science @ **KICT, IIUM**
 - 🛡️ **[Hack The Box Meetup Ambassador](https://www.meetup.com/hack-the-box-meetup-kuala-lumpur-my/)**, Kuala Lumpur
-- 📱 Built **Aurum**, a campus app used by **8,000+ IIUM students**
+- 📱 Built **Aurum** with fellow **DeTA** members, a campus app used by **8,000+ IIUM students**
 - ⚙️ I enjoy shipping mobile apps, web platforms, and the boring-but-important systems behind them
 - 📚 Currently reading *Never Split the Difference* by Chris Voss
 - 📫 Reach me at **syamilyusof@deta.com.my**
 
-<br clear="right" />
+<div align="center">
+  <img width="420" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" />
+</div>
 
 <div align="center">
   <img src="https://i.imgur.com/waxVImv.png" alt="divider" width="100%" />
@@ -52,8 +52,8 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=syamilu&theme=dracula" alt="github stats" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=syamilu&theme=dracula" alt="top languages" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=syamilu&theme=dracula" alt="github stats" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=syamilu&theme=dracula" alt="top languages" />
 </div>
 
 <div align="center">
