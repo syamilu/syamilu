@@ -1,52 +1,115 @@
-<h2 align="left">Hi 👋! My name is Syamil Yusof and I'm a computer science student in IIUM.</h2>
-
-###
+<!-- ============================================================ -->
+<!--                   SYAMIL YUSOF · PROFILE                     -->
+<!-- ============================================================ -->
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syamilu&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&hide_border=true" height="165" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=syamilu&layout=compact&langs_count=6&theme=dracula&hide_border=true" height="165" alt="languages graph" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,17,24&height=200&section=header&text=Syamil%20Yusof&fontSize=52&fontColor=f8f8f2&animation=fadeIn&fontAlignY=35&desc=Developer%20%C2%B7%20Cybersecurity%20%C2%B7%20Computer%20Science%20Student&descAlignY=55&descSize=18" width="100%" alt="banner" />
 </div>
 
-###
-
 <div align="center">
-  <h3>🛠️ Tech Stack</h3>
-  
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  
-  <br />
-
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  
-  <br />
-  
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
-</div>
-
-
-###
-
-<div align="center">
-  <a href="mailto:syamilyusof@forthify.tech" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="www.linkedin.com/in/syamil-yusof" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://github.com/syamilu">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=Multiply+Business+Reach+with+SEO+%26+AEO;Member+%40+DeTA+Community;Computer+Science+Student+%40+IIUM;Flutter,+Next.js+%2B+Springboot+Developer;I+ship+products%2C+not+just+code" alt="typing animation" />
   </a>
 </div>
 
-###
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=syamilu&style=for-the-badge&color=bd93f9&label=PROFILE+VIEWS" alt="profile views" />
+  <a href="https://github.com/syamilu?tab=followers">
+    <img src="https://img.shields.io/github/followers/syamilu?style=for-the-badge&logo=github&label=FOLLOWERS&color=6272a4&labelColor=282a36" alt="followers" />
+  </a>
+</div>
 
-<br clear="both">
+<br />
 
-<img src="https://raw.githubusercontent.com/syamilu/syamilu/output/snake.svg" alt="Uh oh" />
+## 🧑‍🚀 About Me
 
-###
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" />
+
+- 🏢 Member of **[DeTA Community](https://detacommunity.com)**, a student-powered tech community building software for Malaysian SMEs and institutions
+- 🎓 Bachelor of Computer Science @ **KICT, IIUM**
+- 🛡️ **[Hack The Box Meetup Ambassador](https://www.meetup.com/hack-the-box-meetup-kuala-lumpur-my/)**, Kuala Lumpur
+- 📱 Built **Aurum**, a campus app used by **8,000+ IIUM students**
+- ⚙️ I enjoy shipping mobile apps, web platforms, and the boring-but-important systems behind them
+- 📚 Currently reading *Never Split the Difference* by Chris Voss
+- 📫 Reach me at **syamilyusof@deta.com.my**
+
+<br clear="right" />
+
+<div align="center">
+  <img src="https://i.imgur.com/waxVImv.png" alt="divider" width="100%" />
+</div>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,php,dart,react,nextjs,flutter,nodejs,spring,dotnet,laravel,mongodb,firebase,git,github&perline=8" alt="tech stack icons" />
+</div>
+
+<div align="center">
+  <img src="https://i.imgur.com/waxVImv.png" alt="divider" width="100%" />
+</div>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=syamilu&theme=dracula" alt="github stats" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=syamilu&theme=dracula" alt="top languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=syamilu&theme=dracula&hide_border=true" alt="streak stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=syamilu&theme=dracula&hide_border=true&area=true" width="95%" alt="activity graph" />
+</div>
+
+<!-- Trophies: shared instance is flaky right now. Delete this comment wrapper to re-enable once it's stable or self-hosted.
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=syamilu&theme=dracula&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="trophies" />
+</div>
+-->
+
+<!-- ============================================================ -->
+<!-- 🚀 FEATURED PROJECTS                                          -->
+<!-- Uncomment this block and swap REPO-NAME for your best public  -->
+<!-- repos to show pinned project cards:                           -->
+<!--
+## 🚀 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/syamilu/REPO-NAME">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=syamilu&repo=REPO-NAME&theme=dracula&hide_border=true" alt="repo card" />
+  </a>
+  <a href="https://github.com/syamilu/REPO-NAME-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=syamilu&repo=REPO-NAME-2&theme=dracula&hide_border=true" alt="repo card" />
+  </a>
+</div>
+-->
+
+## 📖 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="dev quote" />
+</div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/syamilu/syamilu/output/snake.svg" alt="contribution snake" />
+</div>
+
+## 🤝 Connect With Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/syamil-yusof" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a>
+  <a href="mailto:syamilyusof@deta.com.my" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,17,24&height=120&section=footer" width="100%" alt="footer" />
+</div>
